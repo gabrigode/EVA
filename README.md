@@ -1,5 +1,5 @@
 # EVA
-Accessibility game that uses voice commands to control a spaceship to right, left or shoot. By Daniel Veiga, Gabriel Barbosa, Lucas Leonardo, Igor Molina and Yuri Machado. 
+Accessibility game that uses voice commands to control a spaceship to right, left or shoot. Made as a school project by Daniel Veiga, Gabriel Barbosa, Lucas Leonardo, Igor Molina and Yuri Machado. 
 
 ### Pre-requisites:
 
